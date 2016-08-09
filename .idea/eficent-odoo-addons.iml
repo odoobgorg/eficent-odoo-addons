@@ -21,4 +21,7 @@
     <orderEntry type="module" module-name="sale-financial" />
     <orderEntry type="module" module-name="account-invoicing" />
   </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
 </module>
